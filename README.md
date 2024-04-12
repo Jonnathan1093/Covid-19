@@ -1,13 +1,22 @@
 # COVID-19
+<div style="text-align: justify;">
 Este repositorio incluye datasets con los eventos registrados del COVID-19 desde 10 de Enero del 2020, hasta el 24 de Marzo del 2024.
+<p>
 
 **La información lo pueden encontrar en la siguiente dirección:**
 - https://ourworldindata.org/covid-deaths
 
+</div>
 
 ![Data](https://github.com/Jonnathan1093/Covid-19/assets/90915190/eaec4dcf-c90c-444a-84ce-29708db03f12)
 
-# SQL QUERIES:
+# EXPLORACIÓN DE DATOS:
+<div style="text-align: justify;">
+En esta etapa se realizo una exploración de datos con respecto a la información obtenida del COVID-19, en este proceso se analizo y visualizan los datos relacionados con la pandemia. Durante esta exploración, se pudo ver el número de casos confirmados, tasas de mortalidad, distribución geográfica, efectividad de las vacunas y más.
+</div>
+
+
+## SQL QUERIES:
 Total de casos vs Total de muertes.
 
 ``` sql
