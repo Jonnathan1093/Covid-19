@@ -7,7 +7,7 @@ Este repositorio incluye datasets con los eventos registrados del COVID-19 desde
 
 ![Data](https://github.com/Jonnathan1093/Covid-19/assets/90915190/eaec4dcf-c90c-444a-84ce-29708db03f12)
 
-# SCRIPTS SQL:
+# SQL QUERIES:
 Total de casos vs Total de muertes.
 
 ``` sql
