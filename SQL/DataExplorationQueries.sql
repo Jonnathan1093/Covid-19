@@ -1,4 +1,4 @@
-USE [Portafolio-Covid]
+USE [Data-Projects]
 
 /* Total de casos vs Total de muertes*/
 
