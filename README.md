@@ -326,3 +326,20 @@ FROM [dbo].[Nashville-Housing]
 ALTER TABLE [Nashville-Housing]
 DROP COLUMN [OwnerAddress], [TaxDistrict], [PropertyAddress], [SaleDate]
 ```
+# PROCESAMIENTO DE DATOS EN EXCEL
+
+En este proyecto se realizara desde lo mas básico hasta lo mas avanzado en una limpieza de datos. Primero separaremos los datos en distintas hojas, desde el Area de trabajo, tablas dinámicas, y dashboards. 
+
+![alt text](image.png)
+
+Comenzamos con la eliminación de datos duplicados.
+
+![alt text](image-1.png)
+Asignamos la nomenclatura correcta a los datos, tanto para el estado marital, como para el genero.
+![alt text](image-2.png)
+A continuación transformamos el tipo de cambio en la columna de Ingreso. También verificamos inconsistencias, como por ejemplo en la edad. 
+
+Cuando se tiene un grupo o un rango de edad, podemos crear corchetes alrededor de esto para condensarlos y hacerlo mas fácil de entender, lo que podemos hacer es usar una condicional anidada para decir si es mayor o menor que, y darles los rangos que creamos necesarios.
+![alt text](image-3.png)
+
+Procederemos a crear nuestra tabla dinamica para ayudarnos a visualizar
