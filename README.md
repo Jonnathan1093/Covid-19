@@ -334,17 +334,19 @@ En este proyecto se realizara desde lo mas básico hasta lo mas avanzado en una 
 
 Comenzamos con la eliminación de datos duplicados.
 
-![alt text](image-1.png)
 Asignamos la nomenclatura correcta a los datos, tanto para el estado marital, como para el genero.
-![alt text](image-2.png)
+
+![alt text](image-1.png)
 A continuación transformamos el tipo de cambio en la columna de Ingreso. También verificamos inconsistencias, como por ejemplo en la edad. 
 
 Cuando se tiene un grupo o un rango de edad, podemos crear corchetes alrededor de esto para condensarlos y hacerlo mas fácil de entender, lo que podemos hacer es usar una condicional anidada para decir si es mayor o menor que, y darles los rangos que creamos necesarios.
+
+![alt text](image-2.png)
+
+Procederemos a crear nuestras tablas dinámicas para ayudarnos a visualizar, y de acuerdo a lo 
+
 ![alt text](image-3.png)
 
-Procederemos a crear nuestra tabla dinámica para ayudarnos a visualizar, y de acuerdo a lo que tengamos por objetivo visualizar lo iremos agregando.
-![alt text](image-4.png)
-
 Finalmente cuando hayamos completado nuestras tablas dinámicas, podremos realizar Dashboards, esto nos permitirá monitorizar, analizar y mostrar de manera visual los indicadores de nuestra información.
-![alt text](image-5.png)
 
+![alt text](image-4.png)
