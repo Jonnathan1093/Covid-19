@@ -342,4 +342,9 @@ A continuación transformamos el tipo de cambio en la columna de Ingreso. Tambi�
 Cuando se tiene un grupo o un rango de edad, podemos crear corchetes alrededor de esto para condensarlos y hacerlo mas fácil de entender, lo que podemos hacer es usar una condicional anidada para decir si es mayor o menor que, y darles los rangos que creamos necesarios.
 ![alt text](image-3.png)
 
-Procederemos a crear nuestra tabla dinamica para ayudarnos a visualizar
+Procederemos a crear nuestra tabla dinámica para ayudarnos a visualizar, y de acuerdo a lo que tengamos por objetivo visualizar lo iremos agregando.
+![alt text](image-4.png)
+
+Finalmente cuando hayamos completado nuestras tablas dinámicas, podremos realizar Dashboards, esto nos permitirá monitorizar, analizar y mostrar de manera visual los indicadores de nuestra información.
+![alt text](image-5.png)
+
