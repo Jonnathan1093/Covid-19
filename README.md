@@ -330,26 +330,27 @@ DROP COLUMN [OwnerAddress], [TaxDistrict], [PropertyAddress], [SaleDate]
 
 En este proyecto se realizara desde lo mas básico hasta lo mas avanzado en una limpieza de datos. Primero separaremos los datos en distintas hojas, desde el Area de trabajo, tablas dinámicas, y dashboards. 
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image.png)
+![alt text](SCREENSHOT/image.png)
+
 
 Comenzamos con la eliminación de datos duplicados.
 
 Asignamos la nomenclatura correcta a los datos, tanto para el estado marital, como para el genero.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-1.png)
+![alt text](SCREENSHOT/image-1.png)
 A continuación transformamos el tipo de cambio en la columna de Ingreso. También verificamos inconsistencias, como por ejemplo en la edad. 
 
 Cuando se tiene un grupo o un rango de edad, podemos crear corchetes alrededor de esto para condensarlos y hacerlo mas fácil de entender, lo que podemos hacer es usar una condicional anidada para decir si es mayor o menor que, y darles los rangos que creamos necesarios.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-2.png)
+![alt text](SCREENSHOT/image-2.png)
 
 Procederemos a crear nuestras tablas dinámicas para ayudarnos a visualizar, y de acuerdo a lo 
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-3.png)
+![alt text](SCREENSHOT/image-3.png)
 
 Finalmente cuando hayamos completado nuestras tablas dinámicas, podremos realizar Dashboards, esto nos permitirá monitorizar, analizar y mostrar de manera visual los indicadores de nuestra información.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-4.png)
+![alt text](SCREENSHOT/image-4.png)
 
 # AIRBNB ANALYSIS DATASET - TABLEAU 
 
@@ -382,14 +383,14 @@ Cuando alguien quiere comenzar un negocio en Airbnb y está buscando la mejor ub
 ## Price By ZipCode
 "Esta gráfica ilustra los códigos postales donde es posible obtener tarifas más altas por alquilar en Airbnb."
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-5.png)
+![alt text](SCREENSHOT/image-5.png)
 
 ## Map By ZipCode
 Cuando trabajamos con datos de ubicación, es crucial ser conscientes de la precisión en el uso de coordenadas, ya que cualquier desviación puede alterar significativamente nuestros resultados.
 
 Si nos referimos a la gráfica anterior que muestra los códigos postales con tarifas más altas en Airbnb, podríamos analizar si la ubicación es verdaderamente atractiva y conveniente para los potenciales huéspedes.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-6.png)
+![alt text](SCREENSHOT/image-6.png)
 
 ## Revenue Per Year
 
@@ -397,7 +398,7 @@ Para determinar las mejores temporadas para poner tu propiedad en el mercado de 
 
 Observando el patrón a lo largo del año, podemos notar que desde principios de enero hasta febrero la demanda es baja. Sin embargo, a medida que avanzamos hacia finales de año, hay un incremento notable en la ocupación. Este aumento puede atribuirse a las vacaciones, visitas familiares y actividades de fin de año. Además, durante el verano también se observa un aumento significativo en la demanda.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-7.png)
+![alt text](SCREENSHOT/image-7.png)
 
 ## Promedio - Price Per Bedroom
 
@@ -405,7 +406,7 @@ Al investigar cómo ciertas características influyen en el precio de un alquile
 
 Es probable que una propiedad con más dormitorios tenga un precio más alto, ya que puede alojar a más huéspedes. Del mismo modo, una casa más grande o con características especiales, como piscina o vista panorámica, podría justificar tarifas más altas.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-8.png)
+![alt text](SCREENSHOT/image-8.png)
 
 ## Distinct Count of Bedroom Listings
 
@@ -420,7 +421,7 @@ Esto nos lleva a hacer preguntas de seguimiento importantes, como:
 
 Al responder a estas preguntas, podemos obtener una comprensión más completa de cómo se ve la competencia en términos de dormitorios en el mercado de Airbnb y tomar decisiones estratégicas más informadas.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-9.png)
+![alt text](SCREENSHOT/image-9.png)
 
 ## Dashboard
 **Puntos a considerar:**
@@ -431,4 +432,4 @@ Al responder a estas preguntas, podemos obtener una comprensión más completa d
 4. **Impacto en el precio:** Características como el número de dormitorios, el tamaño de la casa y otras comodidades influyen en el precio de alquiler. Propiedades con menos competencia en ciertos aspectos pueden experimentar una mayor demanda.
 5. **Preguntas de seguimiento:** Se plantean preguntas clave para comprender mejor la competencia, identificar oportunidades de mercado y optimizar la estrategia de alquiler en Airbnb.
 
-![alt text](/DATA-PROJECTS/SCREENSHOT/image-10.png)
+![alt text](SCREENSHOT/image-10.png)
